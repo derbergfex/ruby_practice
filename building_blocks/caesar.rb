@@ -1,3 +1,7 @@
+=begin
+Implement a caesar cipher that takes in a string and the shift factor and then outputs the modified string.
+=end
+
 def caesar_cipher(str, shift)
     arr = str.each_byte.to_a
     str = ""
@@ -15,4 +19,7 @@ def caesar_cipher(str, shift)
 
     puts str
 end
+
+caesar_cipher("What a string!", 5)
+# => "Bmfy f xywnsl!"
 
