@@ -5,3 +5,5 @@
 + Caesar Cipher
 
 + Stock Picker
+
++ Substrings
