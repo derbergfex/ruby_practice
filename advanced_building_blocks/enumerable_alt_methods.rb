@@ -1,3 +1,7 @@
+=begin
+Create similar Enumerable methods, and them onto the Enumerable module
+=end
+
 module Enumerable 
 
     def my_each
