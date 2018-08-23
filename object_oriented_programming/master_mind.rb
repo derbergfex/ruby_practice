@@ -1,3 +1,4 @@
+#create a trminal-based Mastermind game.
 class Mastermind
     COLORS = ["r", "g", "b", "y", "w"]
     ROW = "( ) ( ) ( ) ( )"
