@@ -1,3 +1,4 @@
+#create a terminal-based Tic Tac Toe game.
 class TicTacToe
     attr_reader :board, :curr_player
 
