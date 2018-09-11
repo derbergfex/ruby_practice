@@ -21,3 +21,11 @@
 + Tic Tac Toe
 
 + Mastermind
+
+## Computer Science
+
++ Fibonnaci Sequence (recursive and non-recursive methods)
+
++ Merge Sort 
+
++ Linked List
