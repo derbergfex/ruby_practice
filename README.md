@@ -29,3 +29,6 @@
 + Merge Sort 
 
 + Linked List
+
+### Binary Tree Implementations 
++ Knight Travails (Breadth-First Implementation)
