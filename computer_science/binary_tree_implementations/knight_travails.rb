@@ -35,11 +35,9 @@ def quickest_route(start_coords, end_coords)
 	
 	quickest_route = filter_path(path)
 	puts "You made it in #{quickest_route.length} moves! Here's your path:"
-	printable_path = ""
 	quickest_route.each do |obj|
-		printable_path << "[#{obj.x}, #{obj.y}] "
+		puts "[#{obj.x}, #{obj.y}] "
 	end
-	puts printable_path
 end
 
 # This is to filter all the unnecessary moves.
