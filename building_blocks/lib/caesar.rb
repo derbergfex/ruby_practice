@@ -17,9 +17,9 @@ def caesar_cipher(str, shift)
         str += num.chr       
     end
 
-    puts str
+    str
 end
 
-caesar_cipher("What a string!", 5)
+caesar_cipher("What a string!", -1)
 # => "Bmfy f xywnsl!"
 
